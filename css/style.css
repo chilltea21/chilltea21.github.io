@@ -556,7 +556,8 @@ button {
 
 
 .banner_main {
-     background: url(../images/BackgroundBanner.PNG);
+     background-color:#508ce4
+/*
      background-repeat: no-repeat;
      min-height: 180px;
      object-fit: cover;
@@ -564,7 +565,7 @@ button {
      justify-content: center;
      align-content: center;
      align-items: center;
-     background-size: 100% 100%;
+     background-size: 100% 100%; */
 }
 
 .text-bg {
